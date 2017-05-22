@@ -5,6 +5,7 @@ The goal was to optimize a given website so that each page reaches a page speed 
 
 Page Open
 ==========
+-click <a href="https://github.com/MandeepSingh1616/Website-optimisation-project/edit/master/frontend-nanodegree-mobile-portfolio-master/">here</a>
 -open and unzip the file frontend-nanodegree-mobile-portfolio-master
 -then lauch index.html
 
@@ -61,4 +62,9 @@ Some useful tips to help you get started:
 ####Part 2: Optimize Frames per Second in pizza.html
 
 To optimize views/pizza.html, you will need to modify views/js/main.js until your frames per second rate is 60 fps or higher. You will find instructive comments in main.js.
+
+
+####Note:
+I believe that my README meets all of the requirements. If I am missing something, please provide specifics about what else should be included. Thank you
+
 
